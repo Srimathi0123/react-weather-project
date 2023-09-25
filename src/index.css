@@ -13,7 +13,9 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
-
+body{
+  background-image: rgb(45, 45, 193);
+}
 a {
   font-weight: 500;
   color: #646cff;
@@ -29,6 +31,8 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-color:#558dd1 ;
+  
 }
 
 h1 {
